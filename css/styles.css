@@ -1,0 +1,11 @@
+body{
+  background-color:#ffff00;
+  color:brown;
+  text-shadow: 6px 6px 10px #ffffff;
+  text-align: center;
+}
+
+li {
+  list-style-position: inside;
+  list-style-image: url('../img/bus.png');
+}
